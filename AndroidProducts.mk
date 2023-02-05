@@ -21,5 +21,5 @@ PRODUCT_MAKEFILES := \
      
 
 COMMON_LUNCH_CHOICES := \
-    twrp_KH7n-eng
+    twrp_KG7n-eng
 
